@@ -34,7 +34,7 @@ I always challenge myself to learn new things, and my growth strategy is "consta
 
 ### Programming Languages 👨‍💻
 
-![go](https://img.shields.io/badge/Golang-3776AB?style=for-the-badge&logo=go&logoColor=white)
+![go](https://img.shields.io/badge/Go-3776AB?style=for-the-badge&logo=go&logoColor=white)
 ![python](https://img.shields.io/badge/Python-F7D748?style=for-the-badge&logo=python&logoColor=gray)
 
 ### Scripting Languages 👨‍💻
@@ -45,8 +45,8 @@ I always challenge myself to learn new things, and my growth strategy is "consta
 
 ### DevOps/Cloud Tools 👨‍💻
 
-![aws](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![aws](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![aws](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=gray)
+![azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ![terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
