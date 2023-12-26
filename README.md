@@ -28,7 +28,7 @@ I always challenge myself to learn new things, and my growth strategy is "consta
 | Cloud Essentials | 5f601e6 | IT Certs |
 | IT English | 5f601e7 | IT Certs |
 | AWS Technical Essentials | N/A | Amazon Web Services |
-| Scrum Foundation Professional | 57620840 | Certifprof |
+| Scrum Foundation Professional | 57620840 | CertiProf |
 
 ## Skills 🛠️
 
