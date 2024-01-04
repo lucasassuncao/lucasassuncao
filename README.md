@@ -10,6 +10,7 @@ I always challenge myself to learn new things, and my growth strategy is "consta
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucasassuncao/)
 [![github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lucasassuncao)
+[![spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/lucas.9592)
 
 ## Education 🎓
 - MBA in Cloud Computing - XP Educação (former IGTI)
@@ -73,6 +74,7 @@ I always challenge myself to learn new things, and my growth strategy is "consta
 ![i7-10th-gen](https://img.shields.io/badge/Intel-Core_i7_10750H-0071C5?style=flat&logo=intel&logoColor=white)
 ![rtx-2060](https://img.shields.io/badge/NVIDIA-RTX_2060-76B900?style=flat&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_11-0078D4?style=flat&logo=windows&logoColor=white)
+![android](https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)
 ![goland](https://img.shields.io/badge/GoLand-000000?style=flat&logo=goland&logoColor=white)
 
