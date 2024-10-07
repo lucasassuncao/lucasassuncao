@@ -4,7 +4,7 @@
 
 When I was younger, I fell in love with technology. It was like love at first sight, and I knew I wanted to work with technology for the rest of my life.
 
-I have experience as a DevOps Engineer and SRE (Site Reliability Engineering). I've had the opportunity to work for big tech companies like PagBank (Brazil), Globant (Argentina), and Disney (USA) and I'm currently working at Dell Technologies (Brazil/USA).
+I have experience as a DevOps Engineer/SRE (Site Reliability Engineering). I've had the opportunity to work for big tech companies like PagBank (Brazil), Globant (Argentina/Brazil), Disney (Brazil/USA), Dell Technologies (Brazil/USA) and I'm currently working at Avalara (Brazil/USA).
 
 I always challenge myself to learn new things, and my growth strategy is "constant improvement" to keep getting better at what I do. My mission is to use DevOps and SRE methods to make things smoother for software developers and more dependable for operations professionals aiming agility and reliability.
 
