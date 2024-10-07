@@ -22,7 +22,7 @@ I always challenge myself to learn new things, and my growth strategy is "consta
 
 | Certification Name | Credential | Organization |
 | -------- | ------- | ------- |
-| GitLab Certified Associate | N/A | GitLab Inc. |
+| GitLab Certified Associate | 3034ee30-8337-43d4-b59c-9e6579e9998d | GitLab Inc. |
 | HashiCorp Terraform Associate | c97147ec-cce1-4bda-9832-add9d1ea56e8 | HashiCorp |
 | Splunk Fundamentals I | 14417889 | Splunk |
 | DevOps Foundations | N/A | Estabilis |
