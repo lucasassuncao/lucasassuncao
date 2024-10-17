@@ -1,22 +1,19 @@
 # Hi there 👋
 
 ## About Me 🙋‍♂️
-
-When I was younger, I fell in love with technology. It was like love at first sight, and I knew I wanted to work with technology for the rest of my life.
-
-I have experience as a DevOps Engineer/SRE (Site Reliability Engineering). I've had the opportunity to work for big tech companies like PagBank (Brazil), Globant (Argentina/Brazil), Disney (Brazil/USA), Dell Technologies (Brazil/USA) and I'm currently working at Avalara (Brazil/USA).
-
-I always challenge myself to learn new things, and my growth strategy is "constant improvement" to keep getting better at what I do. My mission is to use DevOps and SRE methods to make things smoother for software developers and more dependable for operations professionals aiming agility and reliability.
+When I was younger, I fell in love with technology. It was like love at first sight, and I knew I wanted to work in this field for the rest of my life.
+Now I have over 10 years of experience in total, more than 7 of which are in DevOps and Site Reliability Engineering (SRE).
+My growth strategy is based on "constant improvement" to keep sharpening my technical skills.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucasassuncao/)
 [![github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lucasassuncao)
 [![spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/lucas.9592)
 
 ## Education 🎓
-- MBA in Cloud Computing - XP Educação (former IGTI)
-- Bachelor of Technology in Systems Analysis and Development - FATEC Zona Sul;
-- Technical Course in Information Technology - ETEC de Embu;
-- English Level: B2 (Upper Intermediate) ~ C1 (Advanced)
+- English Level: C1 (Advanced)
+- MBA in Cloud Computing / XP Educação – Brazil
+- Technologist in Systems Analysis and Development / Fatec Zona Sul – Brazil
+- Technical Course in Computer Science / Etec De Embu – Brazil
 
 ## Certifications 🏅
 
