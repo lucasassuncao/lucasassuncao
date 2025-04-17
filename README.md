@@ -38,13 +38,13 @@ My growth strategy is based on "constant improvement" to keep sharpening my tech
 
 ### Scripting Languages 👨‍💻
 
-![batchscript](https://img.shields.io/badge/Batch_Script-000000?style=flat&logo=windowsterminal&logoColor=white)
-![powershell](https://img.shields.io/badge/PowerShell-3776AB?style=flat&logo=powershell&logoColor=white)
+![batchscript](https://img.shields.io/badge/Batch_Script-000000?style=flat&logo=gnometerminal&logoColor=white)
+![powershell](https://img.shields.io/badge/PowerShell-3776AB?style=flat&logo=gnometerminal&logoColor=white)
 ![shellscript](https://img.shields.io/badge/Shell_Script-000000?style=flat&logo=gnometerminal&logoColor=white)
 
 ### DevOps/Cloud Tools 👨‍💻
 
-![aws](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=gray)
+![aws](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=gray)
 ![azure](https://img.shields.io/badge/Azure-0078D7?style=flat&logo=microsoftazure&logoColor=white)
 
 ![terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
