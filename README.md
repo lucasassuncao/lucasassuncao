@@ -1,9 +1,13 @@
 # Hi there 👋
 
 ## About Me 🙋‍♂️
-When I was younger, I fell in love with technology. It was like love at first sight, and I knew I wanted to work in this field for the rest of my life.
-Now I have over 10 years of experience in total, more than 7 of which are in DevOps and Site Reliability Engineering (SRE).
-My growth strategy is based on "constant improvement" to keep sharpening my technical skills.
+I’m a Senior/Staff DevOps/SRE with 13 years of experience in total, working professionally since 2013 and specializing in DevOps and SRE practices since 2017.
+
+I specialize in building internal platforms and infrastructure tooling as software products, with a strong focus on developing Golang-based CLI tools, frameworks, and shared libraries that enable engineering teams to manage cloud infrastructure safely, consistently, and at scale.
+
+Throughout my career, I’ve worked at the intersection of software engineering, cloud infrastructure, and reliability, helping the team to build scalable, resilient, and developer-friendly platforms.
+
+I’ve had the opportunity to work at global companies such as Dell Technologies, PagBank, Globant, The Walt Disney Company, and I'm currently working at Avalara, always helping organizations to adopt DevOps and SRE practices to reduce operational toil, increase platform reliability, and accelerate software delivery.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucasassuncao/)
 [![github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lucasassuncao)
